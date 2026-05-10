@@ -71,7 +71,7 @@ A UTXO inside the band is conditionally mobile: liquid today, crystallised durin
 2. Open BRINE on a device with a camera
 3. Point the camera at the QR code
 
-Blue Wallet: Settings → Wallet → Show xpub / zpub
+Blue Wallet: Wallet → Settings → Show Wallet xpub
 
 ### Manual paste
 
