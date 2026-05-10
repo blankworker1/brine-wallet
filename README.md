@@ -1,2 +1,0 @@
-# BRINE
-UTXO checker tool
